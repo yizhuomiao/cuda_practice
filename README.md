@@ -1,5 +1,8 @@
 My coding practice on CUDA C programming. 
 The main references I used are: 
-- CS194-15, Introduction to Parallel Programming course material in Unit 3; 
+- CS194-15 Introduction to Parallel Programming 
+  https://sites.google.com/lbl.gov/cs194-15-fa2020/
 - CUDA By Example;
 - Professional CUDA C Programming.
+
+These code are running on gpu cloud server, with NVIDIA T4 gpu.
