@@ -5,6 +5,7 @@ The main references I used are:
 - Professional CUDA C Programming. John Cheng, Max Grossman, Ty McKercher.
 
 These code are running on gpu cloud server, with a NVIDIA T4 gpu.
+
 CUDA version:
 Cuda compilation tools, release 11.0, V11.0.194
 Build cuda_11.0_bu.TC445_37.28540450_0
