@@ -5,4 +5,4 @@ The main references I used are:
 - CUDA By Example;
 - Professional CUDA C Programming.
 
-These code are running on gpu cloud server, with NVIDIA T4 gpu.
+These code are running on gpu cloud server, with a NVIDIA T4 gpu.
