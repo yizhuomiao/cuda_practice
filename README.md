@@ -4,7 +4,7 @@ The main references I used are:
   https://sites.google.com/lbl.gov/cs194-15-fa2020/);
 - Professional CUDA C Programming. John Cheng, Max Grossman, Ty McKercher.
 
-These code are running on gpu cloud server, with a NVIDIA T4 gpu.
+These codes are running on a cloud server with a NVIDIA T4 gpu.
 
 CUDA version:
 Cuda compilation tools, release 11.0, V11.0.194
